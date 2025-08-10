@@ -18,7 +18,7 @@ A full-stack web application built with **Next.js** that lets users create their
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js 14, React, Tailwind CSS
+- **Frontend:** Next.js v15.4.3, React, Tailwind CSS
 - **Backend:** Next.js API Routes
 - **Database:** MongoDB with Mongoose
 - **Auth:** NextAuth.js
