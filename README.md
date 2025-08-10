@@ -42,3 +42,15 @@ _Add your screenshots in a `screenshots` folder in the root project and replace 
 ```bash
 git clone https://github.com/SaurabhJagtap/get-me-a-chai.git
 cd get-me-a-chai
+
+npm install
+
+MONGODB_URI=mongodb://localhost:27017/
+NEXTAUTH_SECRET=ABC
+KEY_ID=rzp_test_lfyMrQZ1Le86oC
+KEY_SECRET=Qirm8nr6u04k2s3TVW8AZ4yc
+
+npm run dev
+
+http://localhost:3000
+
